@@ -1,0 +1,12 @@
+certifi==2018.8.13
+chardet==3.0.4
+future==0.16.0
+idna==2.7
+pyRFC3339==1.1
+PySocks==1.6.8
+python-telegram-bot==10.1.0
+pytz==2018.5
+requests==2.19.1
+teleport==0.4.0
+urllib3==1.23
+virtualenv==16.0.0
