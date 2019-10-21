@@ -8,5 +8,5 @@ python-telegram-bot==10.1.0
 pytz==2018.5
 requests==2.19.1
 teleport==0.4.0
-urllib3==1.23
+urllib3==1.24.2
 virtualenv==16.0.0
